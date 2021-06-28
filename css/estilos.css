@@ -83,7 +83,6 @@ div.servicios{
 }
 div.servicios nav{
   background-color: #00b8e4;
-  margin-bottom: 20px;
 }
 div.servicios nav a{
   padding: 10px;
@@ -93,6 +92,18 @@ div.servicios nav a{
 }
 div.servicios nav a:hover{
   background-color: #db008d;
+}
+div.nuestros-servicios{
+  position: relative;
+  height: 200px;
+}
+div.nuestros-servicios>div{
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #e1e1e1;
+  padding: 20px;
+  display: none;
 }
 
 
