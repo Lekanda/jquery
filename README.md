@@ -6,5 +6,5 @@ Proyecto para ensayar JQuery.
 -Este proyecto es parte del curso HTML5 de Juan de la Torre.
 - Va despues de GDLWebCamp.
 
-Fecha Inicio:24/06/2021.
+**Fecha Inicio:** *24/06/2021*.
 
